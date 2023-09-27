@@ -1,6 +1,6 @@
 {
   "name": "servable-publishable-shared",
-  "description": "Publishable protocol server for Servable.",
+  "description": "Publishable protocol shared for Servable.",
   "type": "module",
   "source": "src/index.js",
   "main": "src/index.js",
